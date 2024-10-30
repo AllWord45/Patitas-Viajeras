@@ -1,0 +1,2 @@
+Profe esta es la carpeta que tiene que colocar en el htdocs con el msql para que pueda ver el login
+ademas como no se puede reconectar ala pagina nuevamente se a decidido que cuando llena el formulario se le redirige a Google :3 solo por que no se puede redirigir a un archivo local 

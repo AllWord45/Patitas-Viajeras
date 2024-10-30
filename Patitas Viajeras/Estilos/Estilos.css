@@ -1,0 +1,331 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+*{
+	font-family: 'Roboto', sans-serif; 
+}
+
+
+body {
+	font-size: 25px;
+	background: #ededed; 
+	padding: 0;
+	margin: 0;
+	word-spacing: 5px;
+    line-height: 1.5;
+}
+
+footer {
+    background-color:#ededed ;
+    color: #;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+h3 {
+	background-color: ;
+    color: #332f2c;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    text-shadow:0.1em 0.1em 0.15em #5564eb;
+}
+
+li{
+    color: #;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+}    
+
+.footer-content {
+    margin: 20px;
+    border: 25px solid #ffffff;
+    max-width: 1200px;
+    padding: 0 20px;
+}
+
+.es {
+    background-color:#f4f4f4 ; 
+    color: pink; 
+    padding: 10px 20px; 
+    border: 2px solid #ffff; 
+    border-radius: 5px ; 
+    font-size: 16px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease, transform 0.2s ease; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-shadow:0.1em 0.1em 0.15em #332f2c  
+}
+
+.es:hover {
+    background-color: #2980b9; 
+    transform: translateY(-2px); 
+}
+
+
+.es:active {
+    transform: translateY(1px); 
+}
+
+
+.social-icons {
+    list-style: none;
+    padding: 0;
+}
+
+.social-icons li {
+    display: inline;
+    margin: 0 10px;
+}
+
+
+.social-icons a {
+    color: #;
+    text-decoration: none;
+}
+
+.social-icons a:hover {
+    color: #f1c40f;
+}
+
+
+.titulo{
+	color: #FFCDC5 ;
+	text-align: center;
+	margin: calc(5% + 10px);
+	background-color: #f4f4f4;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	border: 9px solid #ffff;
+}
+
+.Que{
+	color:black;
+    padding: 12px;
+    border: 25px solid #ffffff;
+}
+
+.vis {
+	text-align: left justify;
+	line-height: 2.5;
+	margin: calc(5% + 10px);
+	color:#FFCDC5;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	border: 25px solid #ffffff;
+}
+
+.mis {
+	text-align: center;
+	overflow: hidden;
+	margin: 20px;
+	background:#f4f4f4;
+	padding: 20px;
+	border: 25px solid #ffffff;
+	overflow: hidden;
+
+}
+
+.imagen { 
+    max-width:25%;
+    height: auto; 
+	text-align:center;
+	float: left;
+	margin-right: 30px; 
+	transition: transform 0.7s ease;
+    border-radius: 15px;
+}
+
+.imagen:hover {
+    transform: scale(1.2);  
+}
+
+.Botones{
+	margin: 15px;
+	background:#FFCDC5;
+	border: 9px solid #ffff;
+
+}
+
+.registro {
+   color: blue; 
+}
+
+/* Pagina alimentos */
+
+.Alimentos{
+   color: #FFCDC5 ;
+	text-align: center;
+	margin: calc(5% + 10px);
+	background-color: #f4f4f4;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	border: 9px solid #ffff;
+}
+
+.imagenes{
+ color: #FFCDC5 ;
+	text-align: center;
+	margin: calc(5% + 10px);
+	background-color: #f4f4f4;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  /*aliniar*/
+  display: flex;  
+  justify-content: space-between; 
+  align-items: center;  
+}
+
+.imagen1{
+    width: 350px; 
+    height: auto;
+    margin: 0 10px; 
+    transition: transform 0.7s ease;
+    border-radius: 15px;  
+} 
+
+.imagen2{
+	width: 350px; 
+    height: auto;
+    margin: 0 10px; 
+    transition: transform 0.7s ease;
+    border-radius: 15px;
+}
+
+.imagen3{
+	width: 350px; 
+    height: auto;
+    margin: 0 10px;
+    transition: transform 0.7s ease;
+    border-radius: 15px; 
+}
+
+.texto-entre {
+    font-size: 25px;  
+    margin: 0 20px;   
+   color:black;
+}
+
+.imagen1:hover {
+    transform: scale(1.2);  
+}
+
+.imagen3:hover {
+    transform: scale(1.2);  
+}
+.imagen2:hover {
+    transform: scale(1.2);  
+}
+
+/* Paginas Caninos */
+
+.perros{
+	text-align: center;
+	overflow: hidden;
+	margin: 20px;
+	background:#f4f4f4;
+	padding: 20px;
+	border: 25px solid #ffffff;
+	overflow: hidden;
+}
+
+.Daniel{
+    max-width:25%;
+    height: auto; 
+	text-align:center;
+	float: left;
+	margin-right: 30px; 
+	transition: transform 0.7s ease;
+    border-radius: 15px;
+}
+
+.Daniel:hover {
+    transform: scale(1.2);  
+}
+
+.beethoven{
+	max-width:25%;
+    height: auto; 
+	text-align:center;
+	float: left;
+	margin-right: 30px; 
+	transition: transform 0.7s ease;
+    border-radius: 15px;
+}
+
+.beethoven:hover {
+    transform: scale(1.2);  
+}
+
+
+.Max {
+	max-width:25%;
+    height: auto; 
+	text-align:center;
+	float: left;
+	margin-right: 30px; 
+	transition: transform 0.7s ease;
+    border-radius: 15px;
+}
+
+.Max:hover {
+    transform: scale(1.2);  
+}
+
+/* Pagina Gatos */
+
+.Gatos {
+    text-align: center;
+	overflow: hidden;
+	margin: 20px;
+	background:#f4f4f4;
+	padding: 20px;
+	border: 25px solid #ffffff;
+	overflow: hidden;
+}
+
+.drago {
+	max-width:25%;
+    height: auto; 
+	text-align:center;
+	float: left;
+	margin-right: 30px; 
+	transition: transform 0.7s ease;
+    border-radius: 15px;
+}
+
+.drago:hover {
+    transform: scale(1.2);  
+}
+
+.milu {
+	max-width:25%;
+    height: auto; 
+	text-align:center;
+	float: left;
+	margin-right: 30px; 
+	transition: transform 0.7s ease;
+    border-radius: 15px;
+}
+
+.milu:hover {
+    transform: scale(1.2);  
+}
+
+.willson {
+	max-width:25%;
+    height: auto; 
+	text-align:center;
+	float: left;
+	margin-right: 30px; 
+	transition: transform 0.7s ease;
+    border-radius: 15px;
+}
+
+.willson:hover {
+    transform: scale(1.2);  
+}

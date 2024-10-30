@@ -1,0 +1,4 @@
+Hola profe queria comensar diciendo que si los botones no funcionana le juro que no se pq es, en mi computador funciona de 10 esto pq el link depende 100% de la computadora en la que este
+
+
+segundo punto usted dijo que no tocaba hacer ni base de datos ni usar PHP pero yo soy medio especialito y lo termine haciendo encontrara una carpeta con eso que tiene que meter en el htdocs del Xampp y la base de datos que es registro.sql :) gracias por su compresion y esperamos el 100
